@@ -1,1 +1,12 @@
 /*! Place your custom styles here */
+@media only screen and (max-width: 430px) {
+    .nav-container .bar__button {
+        display: none;
+    }
+    .bar {
+        padding-bottom: 0px;
+    }
+    footer .social-list {
+        text-align: center;
+    }
+}
