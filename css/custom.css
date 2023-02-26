@@ -10,9 +10,9 @@
         text-align: center;
     }
     #home {
-        height: 40vh;
+        height: 60vh;
     }
-    .background-image-holder {
-        top: -570px;
+    #story {
+        padding-top: 25px;
     }
 }
