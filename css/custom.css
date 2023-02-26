@@ -3,6 +3,9 @@
     .nav-container .bar__button {
         display: none;
     }
+    .nav-container .logo {
+        width: 185px;
+    }
     .bar {
         padding-bottom: 0px;
     }
