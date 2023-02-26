@@ -12,4 +12,7 @@
     #home {
         height: 40vh;
     }
+    .background-image-holder {
+        top: -570px;
+    }
 }
