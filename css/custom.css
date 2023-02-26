@@ -9,4 +9,7 @@
     footer .social-list {
         text-align: center;
     }
+    #home {
+        height: 40vh;
+    }
 }
